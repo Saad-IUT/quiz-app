@@ -1,0 +1,9 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@primaryColor: #377dff;
+@pageBackground: #eff0f1;
+
+@highlightBackground      : #EDE05A;
+@highlightColor           : @textColor;
